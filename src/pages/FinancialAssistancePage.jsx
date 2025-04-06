@@ -38,7 +38,7 @@ const FinancialAssistancePage = () => {
             _id: "6",
             name: "PM Kisan Samman Nidhi",
             description: "Funding for projects to improve water usage efficiency in farming.",
-            image: "public/6.jpeg"
+            image: "https://images.bhaskarassets.com/web2images/521/2023/09/30/1763725-pm-kisan-samman-nidhi-yojana_1696066951.jpg"
         }
     ];
 
