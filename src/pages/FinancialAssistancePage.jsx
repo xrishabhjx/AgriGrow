@@ -14,7 +14,7 @@ const FinancialAssistancePage = () => {
             _id: "2",
             name: "Interest Subvention Scheme",
             description: "Low-interest loans for farmers to help with equipment and operations.",
-            image: "public/2.jpeg"
+            image: "https://agritimes.co.in/farmers/cabinet-approves-interest-subvention-on-short-term-agriculture-loan-of-upto-inr-3-lakh/"
         },
         {
             _id: "3",
