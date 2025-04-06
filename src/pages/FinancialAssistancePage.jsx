@@ -32,7 +32,7 @@ const FinancialAssistancePage = () => {
             _id: "5",
             name: "Namo Drone Didi",
             description: "Subsidy for farmers to adopt modern technology for farming operations.",
-            image: "public/1.jpeg"
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMtAoMPEJ4VKxIJ7bE69kK1kthunX5bJR7g&s"
         },
         {
             _id: "6",
