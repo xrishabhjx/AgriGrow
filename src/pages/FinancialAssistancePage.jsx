@@ -26,7 +26,7 @@ const FinancialAssistancePage = () => {
             _id: "4",
             name: "PM Krishi Sinchai Yojana",
             description: "Insurance programs to protect against crop loss due to adverse weather conditions.",
-            image: "public/3.jpeg"
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkJrfd56BuvF8CcwDSaEFlrejIeREh_oIh1Q&s"
         },
         {
             _id: "5",
