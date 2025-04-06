@@ -8,7 +8,7 @@ const FinancialAssistancePage = () => {
             _id: "1",
             name: "Krishi Udyan 2.0",
             description: "A government initiative to provide financial support to farmers in need.",
-            image: "public/4.jpeg"
+            image: "https://www.facebook.com/saahas.social/posts/we-have-launched-our-latest-issue-of-e-magazine-iekrishi-udyan-darpan-udyan-darp/455085522749035/"
         },
         {
             _id: "2",
