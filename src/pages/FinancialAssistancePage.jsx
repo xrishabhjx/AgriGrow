@@ -20,7 +20,7 @@ const FinancialAssistancePage = () => {
             _id: "3",
             name: "PM Fasal Beema Yojana",
             description: "Grants for farmers adopting environmentally sustainable practices.",
-            image: "public/7.jpeg"
+            image: "https://www.india.gov.in/sites/upload_files/npi/files/spotlights/fasal-bima-yojna-inner.jpg"
         },
         {
             _id: "4",
