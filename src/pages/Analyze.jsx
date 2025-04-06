@@ -153,7 +153,7 @@ const Analyze = () => {
                         disabled={uploading}
                         className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition"
                     >
-                        {uploading ? "Uploading..." : "Analyze with Cow Model 🐄"}
+                        {uploading ? "Uploading..." : "Analyze with Cattle Model 🐄"}
                     </button>
                 </div>
 
